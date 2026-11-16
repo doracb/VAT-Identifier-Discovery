@@ -1,0 +1,121 @@
+CompanyName,CompanyNumber,SampleTier,Postcode,Website,PagesCrawled,CRN_Anchor,Found_Via_EORI,Candidate_VRN,HMRC_Valid,Entity_Match,HMRC_Name,HMRC_Address,Outcome
+STORAGE CENTRE (WALES) LTD,07865870,Tier A (Small / Exempt Audit),CF48 1PQ,https://opengovuk.com,0,False,False,,False,False,,,SITE_UNREACHABLE
+RYEMEAD COMMERCIAL GROUP LTD,08506338,Tier A (Small / Exempt Audit),HP10 9RS,https://www.ryemeadgroup.co.uk,5,True,False,GB178791351,True,True,RYEMEAD COMMERCIAL GROUP LTD,"9 TREADAWAY TECH CENTRE TRE, LOUDWATER, HIGH WYCOMBE, HP10 9RS, GB",VERIFIED_MATCH
+STENSON HEALTHCARE LIMITED,07384379,Tier A (Small / Exempt Audit),DE23 1JB,https://www.companieslist.co.uk,0,False,False,,False,False,,,SITE_UNREACHABLE
+JWF SMITH LIMITED,07631473,Tier A (Small / Exempt Audit),NW1 3ER,https://rooplex.co.uk,0,False,False,,False,False,,,SITE_UNREACHABLE
+BMC MARINE LIMITED,15480371,Tier A (Small / Exempt Audit),SO31 8PD,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+BAHIA SUPERSTORES LIMITED,04658256,Tier A (Small / Exempt Audit),WS3 1ET,https://www.companypulse.co.uk,5,False,False,GB132978001,True,False,INTERLINK DIGITAL GROUP LIMI TED,"27 OLD GLOUCESTER STREET, LONDON, WC1N 3AX, GB",VERIFIED_ENTITY_MISMATCH
+PAUL CAMPION LIMITED,08289830,Tier A (Small / Exempt Audit),DN21 1EB,https://search.infobelpro.com,5,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+FASSET LIMITED,05422389,Tier A (Small / Exempt Audit),LE1 6LP,https://companycheck.co.uk,5,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+D P E LIGHTING LIMITED,14348018,Tier A (Small / Exempt Audit),CF23 9DD,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+TCN OFFICE SERVICES LIMITED,08235670,Tier A (Small / Exempt Audit),WD4 9JT,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+MANCHESTER DRIVER TRAINING LTD,05710998,Tier A (Small / Exempt Audit),SK4 3AF,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+ANDROMEDA AM LTD,14353498,Tier A (Small / Exempt Audit),NN3 5DA,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+MAEVE'S GARDEN LTD,15134947,Tier A (Small / Exempt Audit),M34 5PP,https://tameside.online,5,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+SOURCERIE LTD,13350633,Tier A (Small / Exempt Audit),CT1 3DN,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+ASHLYNN LIMITED,12637743,Tier A (Small / Exempt Audit),CB1 9YJ,https://b2bhint.com,5,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+SUNCIR LTD,15373649,Tier A (Small / Exempt Audit),W1W 7LT,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+BLUEPEBBLE ASSET MANAGEMENT LIMITED,11041985,Tier A (Small / Exempt Audit),PE9 4BH,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+CROWNS & OWLS LIMITED,07692399,Tier A (Small / Exempt Audit),E2 7LF,https://search.infobelpro.com,5,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+MULTIDATA AND ELECTRICAL LIMITED,12666131,Tier A (Small / Exempt Audit),DA14 4DT,https://www.pappers.co.uk,4,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+D. J. LIFT SERVICES LIMITED,01257637,Tier A (Small / Exempt Audit),DY6 7TU,https://djlifts.co.uk,5,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+P.A. FINLAY & COMPANY LIMITED,00988222,Tier A (Small / Exempt Audit),E15 2HX,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+TGS INDUSTRIAL SUPPLIES LIMITED,04610242,Tier A (Small / Exempt Audit),NE33 1QX,https://www.tgsindustrial.co.uk,3,False,False,GB459884674,True,True,TGS INDUSTRIAL SUPPLIES LIMITED,"PORTBERRY INDUSTRIAL ESTATE, PORTBERRY STREET, SOUTH SHIELDS, TYNE & WEAR, NE33 1SB, GB",VERIFIED_MATCH
+PETER'S CAFÉ LIMITED,14652184,Tier A (Small / Exempt Audit),N14 6HF,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+SALEH PHARMA LTD,15725349,Tier A (Small / Exempt Audit),LE3 9ND,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+NAIM WEDDING SERVICES LTD,15969605,Tier A (Small / Exempt Audit),OL9 6QA,https://corpium.co.uk,0,False,False,,False,False,,,SITE_UNREACHABLE
+ANDY BEVERIDGE  LIMITED,05293866,Tier A (Small / Exempt Audit),NG24 1AX,https://corpium.co.uk,0,False,False,,False,False,,,SITE_UNREACHABLE
+ALL COMPLETE ROOFING LTD,12195052,Tier A (Small / Exempt Audit),OL3 6HS,https://www.companieslist.co.uk,0,False,False,,False,False,,,SITE_UNREACHABLE
+DOUBLE WINGS LIMITED,14130079,Tier A (Small / Exempt Audit),ME14 2FL,https://bringo.co.uk,5,False,False,GB477815250,True,False,BRINGO LIMITED,"411 OXFORD STREET, LONDON, W1C 2PE, GB",VERIFIED_ENTITY_MISMATCH
+GARROD DEVELOPMENTS LTD,10729859,Tier A (Small / Exempt Audit),NR19 1BX,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+ESPLANADE PROPERTY MANAGEMENT LIMITED,07004704,Tier A (Small / Exempt Audit),DT4 9NU,https://www.bing.com,1,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+SHEPHERDS WALKS LIMITED,09826678,Tier A (Small / Exempt Audit),NE65 7RZ,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+ADORMIDERA LTD,SC757913,Tier A (Small / Exempt Audit),G74 4LZ,https://scoriff.co.uk,4,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+TJS MARKETING LTD,11426930,Tier A (Small / Exempt Audit),CV36 5AB,https://www.cv36.co.uk,4,True,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+SPRINGCOURT AUTO CENTRE LIMITED,03806105,Tier A (Small / Exempt Audit),SK1 1DS,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+DIRECT MOT CENTRE LTD,08874668,Tier A (Small / Exempt Audit),B5 5NF,https://www.garage.co.uk,0,False,False,,False,False,,,SITE_UNREACHABLE
+LIFELINE FITNESS LIMITED,07882608,Tier A (Small / Exempt Audit),RH8 9BQ,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+PANCHO CONSULTING LTD,09210012,Tier A (Small / Exempt Audit),W10 5BN,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+SECUREX MANUFACTURING LIMITED,08990149,Tier A (Small / Exempt Audit),M26 4DF,https://www.ukcompanydir.com,0,False,False,,False,False,,,SITE_UNREACHABLE
+SOUMAC ASSEMBLY SERVICES LIMITED,04977089,Tier A (Small / Exempt Audit),PO3 5LP,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+T-SMART LIMITED,13959033,Tier A (Small / Exempt Audit),ST5 2BE,https://tsmartuk.co.uk,5,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+SACHDEVA - CONSTRUCTION LTD,14279303,Tier A (Small / Exempt Audit),LE3 5EA,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+CUTIE PIES & FRIES LTD,15461472,Tier A (Small / Exempt Audit),BN1 1UF,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+WARWICKSHIRE PRESTIGE CARS LIMITED,15741321,Tier A (Small / Exempt Audit),CV4 9AP,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+ELECTROMECH ASSEMBLIES LIMITED,07363055,Tier A (Small / Exempt Audit),CT12 5HG,https://electromechassemblies.co.uk,4,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+W.W. MARKETING LIMITED,01230568,Tier A (Small / Exempt Audit),NW9 6LA,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+MR FOX’S PAD LIMITED,15164329,Tier A (Small / Exempt Audit),CH46 7TG,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+MGH BUILDERS LTD,SC820194,Tier A (Small / Exempt Audit),G53 7NR,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+BANKFOOT APAM LIMITED,12490577,Tier A (Small / Exempt Audit),M1 6LT,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+M RALPH ELECTRICAL LIMITED,13285995,Tier A (Small / Exempt Audit),CB22 3JH,https://www.companieslist.co.uk,0,False,False,,False,False,,,SITE_UNREACHABLE
+CHANGEFIRST LIMITED,03025458,Tier A (Small / Exempt Audit),RH11 7XX,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+SURVIVE & REVIVE LIMITED,15816638,Tier B (Micro Entity),TR16 4EN,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+AP AGRI ENTERPRISES LIMITED,08967281,Tier B (Micro Entity),GL20 6EL,https://www.companiesintheuk.co.uk,5,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+MERJOH LTD,14285712,Tier B (Micro Entity),SE1 7LE,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+LALA JI CONSTRUCTION LTD,09774902,Tier B (Micro Entity),RM13 9AA,https://www.ukcompanydir.com,0,False,False,,False,False,,,SITE_UNREACHABLE
+UK NYCO LTD,12075064,Tier B (Micro Entity),HA9 9PU,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+ROHAN REID LTD,SC830842,Tier B (Micro Entity),DD1 2BD,https://scoriff.co.uk,4,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+KEITH WHITE LIMITED,05312968,Tier B (Micro Entity),IP2 9DN,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+JPD FORKTRUCKS LTD.,10072771,Tier B (Micro Entity),BS22 8NG,https://www.companiesintheuk.co.uk,5,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+NEURE HEALTH LIMITED,15842463,Tier B (Micro Entity),TS22 5TB,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+KB-MULTISPORT LIMITED,14656512,Tier B (Micro Entity),SG14 2GP,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+NEW ORIENTAL CHEF LIMITED,09280272,Tier B (Micro Entity),NP11 6AZ,https://www.companieslist.co.uk,0,False,False,,False,False,,,SITE_UNREACHABLE
+PADDIE BEAUTY LTD,12469268,Tier B (Micro Entity),IP28 7DE,https://corpium.co.uk,0,False,False,,False,False,,,SITE_UNREACHABLE
+VITAL HEALTH & SAFETY - VHS LTD,16034057,Tier B (Micro Entity),EN8 9QX,https://scoriff.co.uk,4,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+ARMSTRONGS ACCOUNTANTS LIMITED,08730726,Tier B (Micro Entity),ST13 6LP,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+ONEMORETUNENI LTD,NI722780,Tier B (Micro Entity),BT39 9XW,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+XMC MARKETING LTD,14621017,Tier B (Micro Entity),L8 2TU,https://opengovuk.com,0,False,False,,False,False,,,SITE_UNREACHABLE
+JOHN HAGAN LTD,NI065241,Tier B (Micro Entity),BT23 8RJ,https://www.companiesintheuk.co.uk,5,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+L.A. APPAREL LTD,14264129,Tier B (Micro Entity),PO31 7SW,https://houserisks.co.uk,5,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+SCO-TECH (SERVICES) LIMITED,SC524761,Tier B (Micro Entity),KY14 6DQ,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+ROKESMITH LTD,08448033,Tier B (Micro Entity),LL14 2SH,https://www.companieslist.co.uk,0,False,False,,False,False,,,SITE_UNREACHABLE
+STELLA O'FARRELL LTD,12453286,Tier B (Micro Entity),CT5 2QP,https://www.companiesintheuk.co.uk,5,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+AWARE SERVICES LIMITED,03915439,Tier B (Micro Entity),TA2 6DB,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+HOBSON'S BULK HAULAGE LIMITED,09906329,Tier B (Micro Entity),M14 7DW,https://www.companieslist.co.uk,0,False,False,,False,False,,,SITE_UNREACHABLE
+FAS LABS LTD,11859808,Tier B (Micro Entity),N1 7GU,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+ALEGAN LIMITED,11755805,Tier B (Micro Entity),NE1 1JF,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+AMBROSE HEALTHCARE LTD,14409383,Tier B (Micro Entity),CB2 9SU,https://www.ambrosehc.com,5,True,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+AD LONDON LTD,10238398,Tier B (Micro Entity),EN4 9HN,https://www.bing.com,1,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+WAQIAH COLLECTIONS LIMITED,15709568,Tier B (Micro Entity),E7 8JT,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+LENONA LIMITED,08019202,Tier B (Micro Entity),B73 6HS,https://www.companypulse.co.uk,5,False,False,GB132978001,True,False,INTERLINK DIGITAL GROUP LIMI TED,"27 OLD GLOUCESTER STREET, LONDON, WC1N 3AX, GB",VERIFIED_ENTITY_MISMATCH
+DITA RENTALS LTD,15560039,Tier B (Micro Entity),SE17 3DW,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+WHITE HORSE GARDEN SERVICES LTD,16160820,Tier B (Micro Entity),YO7 1DW,https://www.whitehorsegardenservices.co.uk,3,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+MELANIE O’ROURKE SKINCARE & MAKE UP LIMITED,13628242,Tier B (Micro Entity),BR2 6HQ,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+TIDE EVENTS LTD,13703751,Tier B (Micro Entity),NG2 5HE,https://www.companiesintheuk.co.uk,5,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+ROBIN ACCOUNTING LIMITED,16172174,Tier B (Micro Entity),OX26 6YH,https://www.companiesintheuk.co.uk,5,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+NORTON STUDIOS LTD,08346636,Tier B (Micro Entity),NR14 8QH,https://www.norton-studios.co.uk,4,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+OFFBEET LIMITED,10735741,Tier B (Micro Entity),SO23 7DR,https://www.companiesintheuk.co.uk,5,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+IDEATORS DIGITAL LTD,14309403,Tier B (Micro Entity),GL1 2PU,https://www.creditsafe.com,5,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+EURO FOOD CENTRE LIMITED,12899621,Tier B (Micro Entity),OX16 5PN,https://www.companiesintheuk.co.uk,5,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+PRO IX UNLIMITED LTD,13752386,Tier B (Micro Entity),W1J 7QE,https://www.companiesintheuk.co.uk,5,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+PH GRASS CONVERTERS LIMITED,11651155,Tier B (Micro Entity),LL61 6EQ,https://corpium.co.uk,0,False,False,,False,False,,,SITE_UNREACHABLE
+PROJECTORLAMP-PRO LTD,06650816,Tier B (Micro Entity),NR14 7XP,https://www.bing.com,1,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+TEAPSY LTD,13982515,Tier B (Micro Entity),SE19 1NT,https://opengovuk.com,0,False,False,,False,False,,,SITE_UNREACHABLE
+PLASTERING AND PAINTING CONTRACTORS LTD,14902938,Tier B (Micro Entity),WV1 3RN,https://www.pappers.co.uk,4,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+4EF LTD,10525321,Tier B (Micro Entity),N4 3EG,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+BOXALBROOK STUD AND FORGE LTD.,06833389,Tier B (Micro Entity),RH15 9AE,https://www.companypulse.co.uk,5,False,False,GB132978001,True,False,INTERLINK DIGITAL GROUP LIMI TED,"27 OLD GLOUCESTER STREET, LONDON, WC1N 3AX, GB",VERIFIED_ENTITY_MISMATCH
+WINDOWS BY DURRANT LTD,14401751,Tier B (Micro Entity),GU3 3RD,https://www.windowsbydurrant.co.uk,3,True,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+COSY-HEAT SOLUTIONS LTD,NI654902,Tier B (Micro Entity),BT66 7RZ,https://www.companiesintheuk.co.uk,5,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+ARMISTEAD PRODUCTIONS LIMITED,07866480,Tier B (Micro Entity),BD23 5QJ,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+SMART IT RESOURCES LIMITED,04253465,Tier B (Micro Entity),WD17 1JW,https://www.companiesintheuk.co.uk,5,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+JDP CLEANERS LTD,10982647,Tier B (Micro Entity),LN6 4RJ,https://companieshub.co.uk,5,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+TECHNIMARK LIMITED,07015232,Tier C (Medium / Full Corporate),DL12 0TN,https://find-open.co.uk,0,False,False,,False,False,,,SITE_UNREACHABLE
+STEMMER IMAGING LIMITED,03370750,Tier C (Medium / Full Corporate),GU10 1DW,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+METOKOTE UK LIMITED,03346979,Tier C (Medium / Full Corporate),NN11 4ES,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+BARLEY PUB COMPANY LIMITED,06457362,Tier C (Medium / Full Corporate),B90 4SJ,https://www.companieslist.co.uk,0,False,False,,False,False,,,SITE_UNREACHABLE
+CORBETT BOOKMAKERS LIMITED,00998813,Tier C (Medium / Full Corporate),CH5 2HU,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+IPRISM UNDERWRITING AGENCY LIMITED,05604278,Tier C (Medium / Full Corporate),EC3A 7LN,https://www.iprism.co.uk,5,True,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+STATE STREET GLOBAL ADVISORS LIMITED,02509928,Tier C (Medium / Full Corporate),E14 5HJ,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+BRISTOL PROFESSIONAL SERVICES LIMITED,03443177,Tier C (Medium / Full Corporate),BS1 5UA,https://www.companieslist.co.uk,0,False,False,,False,False,,,SITE_UNREACHABLE
+WILSON VALE CATERING MANAGEMENT LIMITED,04306005,Tier C (Medium / Full Corporate),WC1X 8BB,https://wilsonvale.co.uk,3,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+ACCESS SELF STORAGE LIMITED,05526726,Tier C (Medium / Full Corporate),W1K 7TB,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+BRITANNIA SUPERFINE LIMITED,00526712,Tier C (Medium / Full Corporate),BN26 6JF,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+NAMECO (NO. 1389) LIMITED,14732484,Tier C (Medium / Full Corporate),EC3V 0BT,https://companycheck.co.uk,5,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+BIO CAPITAL HOLDINGS LIMITED,12958783,Tier C (Medium / Full Corporate),SG9 0RU,https://corpium.co.uk,0,False,False,,False,False,,,SITE_UNREACHABLE
+PENNY & GILES AEROSPACE LIMITED,02336358,Tier C (Medium / Full Corporate),BH23 6HH,https://www.companiesintheuk.co.uk,5,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
+PZ CUSSONS (UK) LIMITED,00748096,Tier C (Medium / Full Corporate),M22 5TG,https://corpium.co.uk,0,False,False,,False,False,,,SITE_UNREACHABLE
+ABRDN (IL INFRASTRUCTURE DEBT) GP LIMITED,14313126,Tier C (Medium / Full Corporate),EC2M 4AG,https://corpium.co.uk,0,False,False,,False,False,,,SITE_UNREACHABLE
+ANGLO AMERICAN DIAMOND HOLDINGS LIMITED,08004961,Tier C (Medium / Full Corporate),EC1N 6RA,https://opengovuk.com,0,False,False,,False,False,,,SITE_UNREACHABLE
+CHAIYO RESTAURANTS LIMITED,12374686,Tier C (Medium / Full Corporate),W1U 8LT,,0,False,False,,False,False,,,NO_WEBSITE_FOUND
+MISA SERVICES LIMITED,13585062,Tier C (Medium / Full Corporate),WC2R 0EX,https://corpium.co.uk,0,False,False,,False,False,,,SITE_UNREACHABLE
+J&J WORLDWIDE SERVICES LIMITED,12918676,Tier C (Medium / Full Corporate),MK9 1FF,https://www.companiesintheuk.co.uk,5,False,False,,False,False,,,WEBSITE_FOUND_NO_VAT
