@@ -2,5 +2,5 @@ BasicCompanyDataAsOneFile-2026-11-01.csv
 *.zip
 __pycache__/
 .ipynb_checkpoints/
-.venv/
-venv/
+.venv*/
+venv*/
